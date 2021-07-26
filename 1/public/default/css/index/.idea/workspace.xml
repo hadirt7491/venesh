@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22b6fe28-810a-4f54-8dc8-a3a7a95d7cbb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1hsd3Bpcs02JrshFVfs0GvsrpXf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\cms2\admin\menu" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22b6fe28-810a-4f54-8dc8-a3a7a95d7cbb" name="Default Changelist" comment="" />
+      <created>1600803532219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600803532219</updated>
+      <workItem from="1600803533286" duration="5492000" />
+      <workItem from="1600856467814" duration="84000" />
+      <workItem from="1600856605110" duration="52000" />
+      <workItem from="1600856678304" duration="118000" />
+      <workItem from="1600857307097" duration="131000" />
+      <workItem from="1600861270817" duration="1461000" />
+      <workItem from="1600869165243" duration="335000" />
+      <workItem from="1600869634220" duration="8639000" />
+      <workItem from="1600891317281" duration="1684000" />
+      <workItem from="1600939061273" duration="386000" />
+      <workItem from="1600939498055" duration="2203000" />
+      <workItem from="1600944478503" duration="5719000" />
+      <workItem from="1601020043557" duration="14329000" />
+      <workItem from="1601065930898" duration="8854000" />
+      <workItem from="1601127146197" duration="8822000" />
+      <workItem from="1601151090375" duration="6112000" />
+      <workItem from="1601289339124" duration="845000" />
+      <workItem from="1601378530540" duration="1638000" />
+      <workItem from="1601395533639" duration="1516000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="104" width="1056" height="662" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1600856694352">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="240" y="104" width="1056" height="662" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog/0.0.1536.864@0.0.1536.864" timestamp="1600856694352" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1601396983900">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864/-1280.0.1280.1024@0.0.1536.864" timestamp="1601159127071" />
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1601396983900" />
+    <state x="604" y="355" key="NewPhpFileDialog" timestamp="1601030199458">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="604" y="355" key="NewPhpFileDialog/0.0.1536.864/-1280.0.1280.1024@0.0.1536.864" timestamp="1601030199458" />
+    <state x="425" y="85" width="670" height="676" key="search.everywhere.popup" timestamp="1600870188439">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="85" width="670" height="676" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1600870188439" />
+  </component>
+</project>
